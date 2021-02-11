@@ -1,0 +1,4 @@
+# NYSE_S-P500_Datavisualization
+
+
+We used data mining techniques to perform an exploratory data analysis on the stock market data for the S&P 500 companies on the New York Stock Exchange, the world’s largest stock exchange by market capitalization (Wee, 2017). The goal was to identify those GICS sectors whose stocks have generated the highest return on investments over the past couple of years in order to help investors quickly identify the most profitable company stocks for their stock portfolios. Moreover, we explored the relationships that exist between various factors (e.g. stock volume and stock price, GICS sector and ROI, GICS sector and risk, etc.) in order to gather meaningful insights into those factors that may influence the return on investments for a company’s stocks. Our motivation was to empower the investor community with additional insights that may help them make informed investment decisions.
